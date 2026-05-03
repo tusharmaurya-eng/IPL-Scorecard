@@ -112,6 +112,6 @@ downloadNow().catch(err => console.error("Initial download failed:", err.message
 setInterval(() => downloadNow().catch(err => console.error("Scheduled download failed:", err.message)), 15000);
 
 app.listen(PORT, "0.0.0.0", () => {
-  console.log(`IPL live API build running on http://localhost:${PORT}`);
+  console.log(`IPL live API folder-assets build running on http://localhost:${PORT}`);
   console.log(`For TV/phone/ScreenCloud use: http://YOUR-COMPUTER-IP:${PORT}`);
 });
