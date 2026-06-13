@@ -1,0 +1,844 @@
+{
+  "updated_at": "2026-06-13T13:30:23+00:00",
+  "source": "json-updated-from-world-cup-schedule",
+  "live": null,
+  "upcoming": [
+    {
+      "gameId": "66456918",
+      "stage": "Group B",
+      "home": "Qatar",
+      "homeCode": "QAT",
+      "away": "Switzerland",
+      "awayCode": "SUI",
+      "homeScore": "",
+      "awayScore": "",
+      "status": "Scheduled",
+      "startMs": 1781377200000,
+      "venue": ""
+    },
+    {
+      "gameId": "66456928",
+      "stage": "Group C",
+      "home": "Brazil",
+      "homeCode": "BRA",
+      "away": "Morocco",
+      "awayCode": "MAR",
+      "homeScore": "",
+      "awayScore": "",
+      "status": "Scheduled",
+      "startMs": 1781388000000,
+      "venue": ""
+    },
+    {
+      "gameId": "66456930",
+      "stage": "Group C",
+      "home": "Haiti",
+      "homeCode": "HAI",
+      "away": "Scotland",
+      "awayCode": "SCO",
+      "homeScore": "",
+      "awayScore": "",
+      "status": "Scheduled",
+      "startMs": 1781398800000,
+      "venue": ""
+    },
+    {
+      "gameId": "66456942",
+      "stage": "Group D",
+      "home": "Australia",
+      "homeCode": "AUS",
+      "away": "Turkiye",
+      "awayCode": "TUR",
+      "homeScore": "",
+      "awayScore": "",
+      "status": "Scheduled",
+      "startMs": 1781409600000,
+      "venue": ""
+    },
+    {
+      "gameId": "66457070",
+      "stage": "Group E",
+      "home": "Germany",
+      "homeCode": "GER",
+      "away": "Curacao",
+      "awayCode": "CUW",
+      "homeScore": "",
+      "awayScore": "",
+      "status": "Scheduled",
+      "startMs": 1781456400000,
+      "venue": ""
+    }
+  ],
+  "results": [
+    {
+      "gameId": "66456940",
+      "stage": "Group D",
+      "home": "United States",
+      "homeCode": "USA",
+      "homeScore": "4",
+      "away": "Paraguay",
+      "awayCode": "PAR",
+      "awayScore": "1",
+      "status": "Complete",
+      "startMs": 1781312400000,
+      "venue": ""
+    },
+    {
+      "gameId": "66456916",
+      "stage": "Group B",
+      "home": "Canada",
+      "homeCode": "CAN",
+      "homeScore": "1",
+      "away": "Bosnia and Herzegovina",
+      "awayCode": "BIH",
+      "awayScore": "1",
+      "status": "Complete",
+      "startMs": 1781290800000,
+      "venue": ""
+    },
+    {
+      "gameId": "66456906",
+      "stage": "Group A",
+      "home": "Korea Republic",
+      "homeCode": "KOR",
+      "homeScore": "2",
+      "away": "Czechia",
+      "awayCode": "CZE",
+      "awayScore": "1",
+      "status": "Complete",
+      "startMs": 1781229600000,
+      "venue": ""
+    },
+    {
+      "gameId": "66456904",
+      "stage": "Group A",
+      "home": "Mexico",
+      "homeCode": "MEX",
+      "homeScore": "2",
+      "away": "South Africa",
+      "awayCode": "RSA",
+      "awayScore": "0",
+      "status": "Complete",
+      "startMs": 1781204400000,
+      "venue": ""
+    }
+  ],
+  "topScorers": [
+    {
+      "name": "Folarin Balogun",
+      "team": "United States",
+      "teamCode": "USA",
+      "value": "2",
+      "metric": "Goals",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:70641.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/70641"
+    },
+    {
+      "name": "Julian Quinones",
+      "team": "Mexico",
+      "teamCode": "MEX",
+      "value": "1",
+      "metric": "Goal",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:44031.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/44031"
+    },
+    {
+      "name": "Raul Jimenez",
+      "team": "Mexico",
+      "teamCode": "MEX",
+      "value": "1",
+      "metric": "Goal",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:23.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/23"
+    },
+    {
+      "name": "Hwang In-beom",
+      "team": "Korea Republic",
+      "teamCode": "KOR",
+      "value": "1",
+      "metric": "Goal",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:62200.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/62200"
+    },
+    {
+      "name": "Oh Hyeon-Gyu",
+      "team": "Korea Republic",
+      "teamCode": "KOR",
+      "value": "1",
+      "metric": "Goal",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:79888.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/79888"
+    },
+    {
+      "name": "Gio Reyna",
+      "team": "United States",
+      "teamCode": "USA",
+      "value": "1",
+      "metric": "Goal",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:73261.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/73261"
+    },
+    {
+      "name": "Ladislav Krejci",
+      "team": "Czechia",
+      "teamCode": "CZE",
+      "value": "1",
+      "metric": "Goal",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:9170.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/9170"
+    },
+    {
+      "name": "Cyle Larin",
+      "team": "Canada",
+      "teamCode": "CAN",
+      "value": "1",
+      "metric": "Goal",
+      "image": "https://imagecache.365scores.com/image/upload/f_png,w_300,h_300,c_limit,q_auto:eco,dpr_2,d_Athletes:40412.png,r_max,c_thumb,g_face,z_0.65/v61/Athletes/NationalTeam/40412"
+    },
+    {
+      "name": "Jovo Lukic",
+      "team": "Bosnia and Herzegovina",
+      "teamCode": "BIH",
+      "value": "1",
+      "metric": "Goal",
+      "image": ""
+    }
+  ],
+  "standings": [
+    {
+      "group": "Group A",
+      "teams": [
+        {
+          "team": "Mexico",
+          "teamCode": "MEX",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3
+        },
+        {
+          "team": "Korea Republic",
+          "teamCode": "KOR",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "points": 3
+        },
+        {
+          "team": "Czechia",
+          "teamCode": "CZE",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
+          "points": 0
+        },
+        {
+          "team": "South Africa",
+          "teamCode": "RSA",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group B",
+      "teams": [
+        {
+          "team": "Canada",
+          "teamCode": "CAN",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "teamCode": "BIH",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Qatar",
+          "teamCode": "QAT",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Switzerland",
+          "teamCode": "SUI",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group C",
+      "teams": [
+        {
+          "team": "Brazil",
+          "teamCode": "BRA",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Morocco",
+          "teamCode": "MAR",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Haiti",
+          "teamCode": "HAI",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Scotland",
+          "teamCode": "SCO",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group D",
+      "teams": [
+        {
+          "team": "United States",
+          "teamCode": "USA",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3
+        },
+        {
+          "team": "Australia",
+          "teamCode": "AUS",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Turkiye",
+          "teamCode": "TUR",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Paraguay",
+          "teamCode": "PAR",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group E",
+      "teams": [
+        {
+          "team": "Germany",
+          "teamCode": "GER",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Curacao",
+          "teamCode": "CUW",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ivory Coast",
+          "teamCode": "CIV",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ecuador",
+          "teamCode": "ECU",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group F",
+      "teams": [
+        {
+          "team": "Netherlands",
+          "teamCode": "NED",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Japan",
+          "teamCode": "JPN",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Sweden",
+          "teamCode": "SWE",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Tunisia",
+          "teamCode": "TUN",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group G",
+      "teams": [
+        {
+          "team": "Belgium",
+          "teamCode": "BEL",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Egypt",
+          "teamCode": "EGY",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Iran",
+          "teamCode": "IRN",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "New Zealand",
+          "teamCode": "NZL",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group H",
+      "teams": [
+        {
+          "team": "Spain",
+          "teamCode": "ESP",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Cape Verde",
+          "teamCode": "CPV",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Saudi Arabia",
+          "teamCode": "KSA",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Uruguay",
+          "teamCode": "URU",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group I",
+      "teams": [
+        {
+          "team": "France",
+          "teamCode": "FRA",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Senegal",
+          "teamCode": "SEN",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Iraq",
+          "teamCode": "IRQ",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Norway",
+          "teamCode": "NOR",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group J",
+      "teams": [
+        {
+          "team": "Argentina",
+          "teamCode": "ARG",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Algeria",
+          "teamCode": "ALG",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Austria",
+          "teamCode": "AUT",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Jordan",
+          "teamCode": "JOR",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group K",
+      "teams": [
+        {
+          "team": "Portugal",
+          "teamCode": "POR",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "DR Congo",
+          "teamCode": "COD",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Uzbekistan",
+          "teamCode": "UZB",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Colombia",
+          "teamCode": "COL",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group L",
+      "teams": [
+        {
+          "team": "England",
+          "teamCode": "ENG",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Croatia",
+          "teamCode": "CRO",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ghana",
+          "teamCode": "GHA",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Panama",
+          "teamCode": "PAN",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    }
+  ],
+  "_live_help": {
+    "message": "Set live to null when no match is live. To show a real live match, set live.isLive=true and fill live scores/stats.",
+    "example_live_status": "LIVE",
+    "example_not_live": null
+  },
+  "topScorersNote": "Updated to current completed World Cup 2026 matches in this JSON. Own goals are excluded from top scorers."
+}
